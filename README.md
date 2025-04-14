@@ -29,6 +29,7 @@ node salesreport.js
 
 ```
 ### 2. Output Pattern
+```
 ---------------------------------
 Sales Performance Report
 ---------------------------------
@@ -58,3 +59,4 @@ Actual Sale :$180
 Sales Percentage :90 %
 Performance :High Performer
 Employee Bonus :$36.0
+```
